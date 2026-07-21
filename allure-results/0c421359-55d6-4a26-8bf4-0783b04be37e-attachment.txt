@@ -1,0 +1,1 @@
+[32mINFO    [0m BASE_ELEMENT:base_element.py:37 Element Status Label Red is visible (nth: 0)

@@ -1,0 +1,3 @@
+[32mINFO    [0m INPUT:input.py:56 Sent keys 'test_input' to Console Input (nth: 0)
+[32mINFO    [0m INPUT:input.py:20 Verified Console Input has value: 'test_input' (nth: 0)
+[32mINFO    [0m BASE_ELEMENT:base_element.py:37 Element Console Input is visible (nth: 0)
