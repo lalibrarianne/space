@@ -4,7 +4,6 @@ import re
 # Единый handler для всех логгеров
 _file_handler = None
 
-
 class CallLogFilter(logging.Filter):
     """Фильтрует Call log из сообщений Playwright-исключений"""
     def filter(self, record):

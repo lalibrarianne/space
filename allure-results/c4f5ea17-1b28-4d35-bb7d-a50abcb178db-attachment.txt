@@ -1,8 +1,0 @@
-[32mINFO    [0m BASE_ELEMENT:base_element.py:37 Element Status Label Red is visible (nth: 0)
-[32mINFO    [0m BASE_ELEMENT:base_element.py:37 Element Status Label Yellow is visible (nth: 0)
-[32mINFO    [0m BASE_ELEMENT:base_element.py:37 Element Status Label Green is visible (nth: 0)
-[32mINFO    [0m BASE_ELEMENT:base_element.py:37 Element Status Label Red is visible (nth: 0)
-[32mINFO    [0m BASE_ELEMENT:base_element.py:37 Element Status Label Yellow is visible (nth: 0)
-[32mINFO    [0m BASE_ELEMENT:base_element.py:37 Element Status Label Green is visible (nth: 0)
-[32mINFO    [0m INPUT:input.py:56 Sent keys 'help' to Console Input (nth: 0)
-[32mINFO    [0m INPUT:input.py:20 Verified Console Input has value: 'help' (nth: 0)

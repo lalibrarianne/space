@@ -8,8 +8,7 @@ def base_page(page) -> BasePage:
     return BasePage(page)
 
 @pytest.fixture
-def space_page(page) -> SpacePage:
+def space_page(page) -> SpacePage: 
     return SpacePage(page)
-
 
 pytest_plugins = ("fixtures.browsers")
