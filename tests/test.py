@@ -113,7 +113,6 @@ class TestSpaceConsoleCommands:
             )
             raise
 
-
 @allure.epic("Space Console")
 @allure.feature("Combined Tests")
 class TestSpaceConsoleCombined:
